@@ -12,29 +12,31 @@
 
 ---
 
-### About Me
+### 🧭 About Me
 
-- I'm a student at **Shanghai Jiao Tong University**, majoring in Computer Science and Technology(IEEE pilot class).
-- I'm currently exploring **PyTorch** to get started with machine learning and focusing on improving my **algorithm skills**.
-- How to reach me: chianghx23@gmail.com
+- 🎓 Majoring in **Computer Science and Technology (IEEE Pilot Class)** at **Shanghai Jiao Tong University**.
+- 🤖 Exploring **PyTorch** and **machine learning** recently.
+- 📫 Reach me at **[chianghx23@gmail.com](mailto:chianghx23@gmail.com)**
 
 ---
 
-### Languages
+### 💻 Languages & Tools
+#### Main
 <p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 #### Currently Learning
 <p>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 </p>
   
   
 --- 
-### My GitHub Stats
+
+### 📊 GitHub Stats
 
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrenclia&theme=buefy&layout=compact" />
