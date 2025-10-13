@@ -20,12 +20,10 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lawrenclia&show_icons=true&theme=dracula&rank_icon=github&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lawrenclia&show_icons=true&theme=light&rank_icon=github&count_private=true" alt="GitHub Stats" width="48%"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrenclia&layout=compact&theme=dracula" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrenclia&layout=compact&theme=light" alt="Top Languages" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lawrenclia&theme=dracula" alt="GitHub Streak" />
-</p>
+
 
