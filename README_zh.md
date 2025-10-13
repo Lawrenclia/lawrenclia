@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1 align="center">你好，我是 Lawrenclia. 👋</h1>
+  <h1 align="center">你好, 我是 <a href = "https://lawrenclia.github.io"> Lawrenclia</a>. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> </h1>
 </div>
 
 <div align="right">
