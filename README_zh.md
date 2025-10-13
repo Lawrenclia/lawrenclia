@@ -10,6 +10,7 @@
   <img align="right" width="400" alt="picture" src="background.png"/>
 </div>
 
+---
 
 ### 🧭 关于我
 
