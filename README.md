@@ -14,7 +14,7 @@
 
 ### About Me
 
-- I am a student at **Shanghai Jiao Tong University**, majoring in Computer Science and Technology(IEEE pilot class).
+- I'm a student at **Shanghai Jiao Tong University**, majoring in Computer Science and Technology(IEEE pilot class).
 - I'm currently exploring **PyTorch** to get started with machine learning and focusing on improving my **algorithm skills**.
 - How to reach me: chianghx23@gmail.com
 
