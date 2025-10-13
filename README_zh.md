@@ -39,6 +39,5 @@
 ### 📊 GitHub 统计
 
 <p align="left">
-  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrenclia&theme=buefy&layout=compact" />
-  <img height="120px" src="https://github-readme-stats.vercel.app/api?username=Lawrenclia&rank_icon=github&show_icons=true" />
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrenclia&theme=buefy&layout=compact" />
 </p>
