@@ -7,9 +7,8 @@
 </div>
 
 <div align="right">
-<img align="right" width="400" alt="picture" src="background.png"/>
+  <img src="background.png" alt="picture" style="max-width: 400px; width: 100%; height: auto;">
 </div>
-
 ---
 
 ### About Me
