@@ -39,7 +39,5 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrenclia&theme=buefy&layout=compact" />
+  <img height="130px" src="https://github-readme-stats-lawrenclia.vercel.app/api/top-langs/?username=Lawrenclia&layout=compact" />
 </p>
-
-
